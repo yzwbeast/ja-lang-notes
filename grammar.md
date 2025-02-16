@@ -172,9 +172,9 @@
 
 ## 7. 练习资源  
 - **书写练习**：
-  - [Hiragana trace sheets](#)  
-  - [japanese-lesson.com](#)  
-  - [Hiroshi & Sakura](#)  
+  - [Hiragana trace sheets](http://guidetojapanese.org/pdf/hiragana_trace_sheet.pdf)  
+  - [japanese-lesson.com](http://japanese-lesson.com/characters/hiragana/hiragana_writing.html)  
+  - [Hiroshi & Sakura](http://happyfu-fu.com/hiroshiandsakura/ls_hiragana_stroke.html)  
 - **发音练习**：
   - 可下载音频文件进行对照练习（[basic_sounds.zip](http://guidetojapanese.org/audio/basic_sounds.zip)）。  
 - **推荐古诗「いろは」**：包含所有平假名（除「ん」外），适合作为练习材料。  
