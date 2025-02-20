@@ -81,35 +81,35 @@
 ! 
 | あ || い || う || え || お
 |-
-! *k*
+! '''k'''
 | か || き || く || け || こ
 |-
-! *s*
+! '''s'''
 | さ || し (shi) || す || せ || そ
 |-
-! *t*
+! '''t'''
 | た || ち (chi) || つ (tsu) || て || と
 |-
-! *n*
+! '''n'''
 | な || に || ぬ || ね || の
 |-
-! *h*
+! '''h'''
 | は || ひ || ふ || へ || ほ
 |-
-! *m*
+! '''m'''
 | ま || み || む || め || も
 |-
-! *y*
-| や || - || ゆ || - || よ
+! '''y'''
+| や || &nbsp; || ゆ || &nbsp; || よ
 |-
-! *r*
+! '''r'''
 | ら || り || る || れ || ろ
 |-
-! *w*
-| わ || - || - || - || を (o)
+! '''w'''
+| わ || &nbsp; || &nbsp; || &nbsp; || を (o)
 |-
-! *n*
-| ん (n) || - || - || - || -
+! '''n'''
+| ん (n) || &nbsp; || &nbsp; || &nbsp; || &nbsp;
 |}
 
 === 3. 浊音与半浊音 ===
@@ -124,19 +124,19 @@
 |-
 ! !! a !! i !! u !! e !! o
 |-
-! *g*
+! '''g'''
 | が || ぎ || ぐ || げ || ご
 |-
-! *z*
+! '''z'''
 | ざ || じ (ji) || ず || ぜ || ぞ
 |-
-! *d*
+! '''d'''
 | だ || ぢ (ji) || づ (dzu) || で || ど
 |-
-! *b*
+! '''b'''
 | ば || び || ぶ || べ || ぼ
 |-
-! *p*
+! '''p'''
 | ぱ || ぴ || ぷ || ぺ || ぽ
 |}
 
@@ -201,11 +201,11 @@
 |-
 | ろっく || ''rokku'' || 摇滚
 |-
-| トラ`ッ`ク || ''to-ra`k`-ku'' || 卡车
+| トラ<code>ッ</code>ク || ''to-ra<code>k</code>-ku'' || 卡车
 |-
-| ざ`っ`し || ''za`s`-shi'' || 杂志
+| ざ<code>っ</code>し || ''za<code>s</code>-shi'' || 杂志
 |-
-| カ`ッ`プ || ''ka`p`-pu'' || 摇滚
+| カ<code>ッ</code>プ || ''ka<code>p</code>-pu'' || 摇滚
 |}
 
 === 6. 长元音 ===
@@ -227,15 +227,15 @@
 |-
 ! 假名 !! 读音 !! 词义
 |-
-| がくせ`い` || ''ga-ku-s`e`i'' || 学生
+| がくせ<code>い</code> || ''ga-ku-s<code>e</code>i'' || 学生
 |-
-| せんせ`い` || ''sen-s`e`i'' || 老师
+| せんせ<code>い</code> || ''sen-s<code>e</code>i'' || 老师
 |-
-| きょ`う` || ''ky`o`u'' || 今天
+| きょ<code>う</code> || ''ky<code>o</code>u'' || 今天
 |-
-| おはよ`う` || ''o-ha-y`o`u'' || 早安
+| おはよ<code>う</code> || ''o-ha-y<code>o</code>u'' || 早安
 |-
-| おか`あ`さん || ''o-k`a`a-san'' || 母亲
+| おか<code>あ</code>さん || ''o-k<code>a</code>a-san'' || 母亲
 |}
 
 ⚠ '''注意'''：
@@ -246,9 +246,9 @@
 
 === 7. 练习资源 ===
 * '''书写练习'''：
-** [Hiragana trace sheets](http://guidetojapanese.org/pdf/hiragana_trace_sheet.pdf)
-** [japanese-lesson.com](http://japanese-lesson.com/characters/hiragana/hiragana_writing.html)
-** [Hiroshi & Sakura](http://happyfu-fu.com/hiroshiandsakura/ls_hiragana_stroke.html)
+** [http://guidetojapanese.org/pdf/hiragana_trace_sheet.pdf Hiragana trace sheets]
+** [http://japanese-lesson.com/characters/hiragana/hiragana_writing.html japanese-lesson.com]
+** [http://happyfu-fu.com/hiroshiandsakura/ls_hiragana_stroke.html Hiroshi & Sakura]
 * '''发音练习'''：
-** 可下载音频文件进行对照练习（[basic_sounds.zip](http://guidetojapanese.org/audio/basic_sounds.zip)）。
+** 可下载音频文件进行对照练习（[http://guidetojapanese.org/audio/basic_sounds.zip basic_sounds.zip]）。
 * '''推荐古诗「いろは」'''：包含所有平假名（除「ん」外），适合作为练习材料。
