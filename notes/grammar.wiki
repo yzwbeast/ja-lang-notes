@@ -246,7 +246,9 @@
 
 === 7. 练习资源 ===
 * '''书写练习'''：
+** [https://www.kfstudio.net/kidsmoji/ 儿童文字表]
 ** [https://g-lang.co.jp/wordpress/wp-content/uploads/2017/04/hiraganakatakana3set.pdf 平假名片假名练习用格纸]
+** [https://files.tofugu.com/articles/japanese/2016-04-05-hiragana-chart/mamanoyume-hiragana-katakana-chart.jpg Hiragana/Katakana图表]
 ** [https://guidetojapanese.org/pdf/hiragana_trace_sheet.pdf 平假名书写练习表1]
 ** [http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf 平假名书写练习表2]
 ** [https://files.tofugu.com/articles/japanese/2016-04-05-hiragana-chart/matome-renshuu.pdf 平假名书写练习表3]
@@ -256,9 +258,19 @@
 ** [https://files.tofugu.com/articles/japanese/2016-03-07-hiragana-mnemonics-chart/hiragana-mnemonic-chart-by-tofugu.jpg 助记符jpg1]
 ** [https://files.tofugu.com/articles/japanese/2016-04-05-hiragana-chart/hiragana-mnemonics-chart.jpg 助记符jpg2]
 ** [https://files.tofugu.com/articles/japanese/2016-04-05-hiragana-chart/hiragana-chart-mnemonics-2.jpg 助记符jpg3]
+** [https://files.tofugu.com/articles/japanese/2016-04-05-hiragana-chart/old-hiragana-chart.jpeg 助记符jpg4]
+** [https://deercharisma.wordpress.com/wp-content/uploads/2021/03/pokemon-hiragana-chart.jpg 助记符jpg5]
+** [https://deercharisma.wordpress.com/wp-content/uploads/2021/03/imotoyouko.jpg 助记符jpg6]
 ** [https://files.tofugu.com/articles/japanese/2016-04-05-hiragana-chart/waterford-hiragana-mnemonics-chart.pdf 助记符pdf]
-** [https://web.archive.org/web/20170306045450/http://www.darton.edu/programs/Humanities/foreign-language/kana.html 助记符网站]
+** [https://web.archive.org/web/20170306045450/http://www.darton.edu/programs/Humanities/foreign-language/kana.html 助记符网站1]
+** [https://happylilac.net/hiraganahyo-sta.html 助记符网站2]
+** [https://benesse.jp/contents/hiragana/hiragana_rensyu_work.shtml#nurie 助记符网站3]
+** [https://www.genkienglish.net/kokugo/hiraganahyoprint.htm#google_vignette 助记符网站4]
+** [http://print-kids.net/print/kokugo/hiragana-anaume/ Hiragana空白填充印刷品1]
+** [https://kids.nifty.com/study/hira_rensyu/index.htm Hiragana空白填充印刷品2]
 ** [https://www.nhk.or.jp/lesson/zh/letters/hiragana.html NHK日语五十音]
+** [https://www.nhk.or.jp/lesson/ NHK的日语学习平台]
+** [https://drive.google.com/file/d/0B07v3CCErNvjaXM1NHUza1dTUWs/view?usp=sharing&resourcekey=0-9pVqKh0YvEonbPECun-vWw 1000汉字列表]
 * '''发音练习'''：
 ** 可下载音频文件进行对照练习（[https://guidetojapanese.org/audio/basic_sounds.zip basic_sounds.zip]）。
 * '''推荐古诗「いろは」'''：包含所有平假名（除「ん」外），适合作为练习材料。
